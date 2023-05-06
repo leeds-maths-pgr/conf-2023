@@ -1,0 +1,3 @@
+[submodule "themes/leeds_pgr_basic"]
+	path = themes/leeds_pgr_basic
+	url = git@github.com:leeds-maths-pgr/leeds_pgr_basic.git
