@@ -1,5 +1,5 @@
 baseURL = 'https://leeds-maths-pgr.github.io/conf-2023/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'University of Leeds SoM PGR Conference'
 theme = "leeds_pgr_basic"
 [menu]
@@ -8,18 +8,18 @@ theme = "leeds_pgr_basic"
     pageRef = '/'
     weight = 10
 [[menu.main]]
-    name = 'Call for abstracts'
-    url = '/call_for_abstracts'
+    name = 'Call for speakers'
+    url = '/call_for_speakers'
     weight = 20
-[[menu.main]]
-    name = 'Schedule'
-    url = '/schedule'
-    weight = 30
+# [[menu.main]]
+#     name = 'Schedule'
+#     url = '/schedule'
+#     weight = 30
 [[menu.main]]
     name = 'Contact'
     url = '/contact'
     weight = 40
-[[menu.main]]
-    name = 'Files'
-    url = '/files'
-    weight = 50
+# [[menu.main]]
+#     name = 'Files'
+#     url = '/files'
+#     weight = 50
