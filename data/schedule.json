@@ -1,0 +1,59 @@
+{
+    "schedule":
+    {
+        "headings": [
+            "Time (BST)",
+            "Day 1",
+            "Day 2",
+            "Day 3"
+        ],
+        "rows": [
+            [{"display": "09:00-09:30", "type": "time"},
+             {"display": "Breakfast", "type": "break"},
+             {"display": "Breakfast", "type": "break"},
+             {"display": "Breakfast", "type": "break"}],
+
+            [{"display": "09:30-10:30", "type": "time"},
+             {"display": "Welcome", "type": "alt-pres"},
+             {"display": "PGR talks: session 3", "type": "pgr-pres"},
+             {"display": "PGR talks: session 5", "type": "pgr-pres"}],
+
+            [{"display": "10:30-11:00", "type": "time"},
+             {"display": "Mini break", "type": "break"},
+             {"display": "Mini break", "type": "break"},
+             {"display": "Mini break", "type": "break"}],
+
+            [{"display": "11:00-12:00", "type": "time"},
+             {"display": "PGR talks: session 1", "type": "pgr-pres"},
+             {"display": "PGR talks: session 4", "type": "pgr-pres"},
+             {"display": "Non-Academic careers panel", "type": "alt-pres"}],
+
+            [{"display": "12:00-13:00", "type": "time"},
+             {"display": "Lunch", "type": "break"},
+             {"display": "Lunch", "type": "break"},
+             {"display": "Lunch", "type": "break"}],
+
+            [{"display": "13:00-14:00", "type": "time"},
+             {"display": "Academic careers panel", "type": "alt-pres"},
+             {"display": "External speaker", "type": "alt-pres"},
+             {"display": "Closing and Awards", "type": "social"}],
+
+            [{"display": "14:00-14:30", "type": "time"},
+             {"display": "Coffee and cake break", "type": "break"},
+             {"display": "Coffee and cake break", "type": "break"}],
+
+
+            [{"display": "14:30-15:30", "type": "time"},
+             {"display": "PGR talks: session 2", "type": "pgr-pres"},
+             {"display": "Workshop", "type": "alt-pres"}],
+
+            [{"display": "15:30-16:00", "type": "time"},
+             {"display": "Mini break", "type": "break"},
+             {"display": "Mini break", "type": "break"}],
+
+            [{"display": "16:00-17:00", "type": "time"},
+             {"display": "Pub quiz/Wine and cheese social", "type": "social"},
+             {"display": "Poster session", "type": "pgr-pres"}]
+        ]
+    }
+}
