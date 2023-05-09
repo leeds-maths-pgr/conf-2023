@@ -3,4 +3,4 @@ This year's conference will take place on June 14-16, 2023, at the School of Mat
 The conference provides an excellent opportunity for postgraduate researchers to present their work, receive feedback from their peers, and engage in valuable discussions about current research trends and future directions.
 
 Participants can either give a talk or present a poster, and the conference will include a dedicated poster session.
-We welcome [submissions](./call_for_speakers) from all areas of mathematics and related fields!
+We welcome [submissions](./call_for_speakers) from all PGRs in the School of Mathematics!
