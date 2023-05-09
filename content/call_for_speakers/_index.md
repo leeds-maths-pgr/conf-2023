@@ -2,7 +2,9 @@
 title: "Call for Speakers"
 ---
 
-We invite postgraduate researchers from all groups and years at the Leeds School of Mathematics to submit proposals for talks or poster presentations. To submit your proposal, please fill out [this form](https://forms.office.com/e/WA7LqiiPB9) by the 31st of May. We look forward to receiving your proposals and to showcasing the exciting research being conducted by our PGRs.
+We invite postgraduate researchers from all groups and years at the Leeds School of Mathematics to submit proposals for talks or poster presentations.
+To submit your proposal, please fill out [this form](https://forms.office.com/e/WA7LqiiPB9) by the 31st of May.
+We look forward to receiving your proposals and to showcasing the exciting research being conducted by our PGRs.
 
 ## Important Information
 
