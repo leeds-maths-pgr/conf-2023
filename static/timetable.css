@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid #000000;
+}
+
+table {
+      width: 100%;
+      margin: 0 auto;
+      display: block;
+      overflow-x: auto;
+      border-spacing: 0;
+}
+
+th, td {
+    min-width: calc(5rem + 10vw);
+    padding: calc(0.5rem + 1vh) calc(0.5rem + 1vw);
+    text-align: center;
+}
+
+th {
+    background-color: #5A7087;
+    color: #F0F1F8;
+}
