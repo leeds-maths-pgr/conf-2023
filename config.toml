@@ -11,10 +11,10 @@ theme = "leeds_pgr_basic"
     name = 'Call for speakers'
     url = '/call_for_speakers'
     weight = 20
-# [[menu.main]]
-#     name = 'Schedule'
-#     url = '/schedule'
-#     weight = 30
+[[menu.main]]
+    name = 'Schedule'
+    url = '/schedule'
+    weight = 30
 [[menu.main]]
     name = 'Contact'
     url = '/contact'
