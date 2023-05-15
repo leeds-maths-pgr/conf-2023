@@ -1,7 +1,7 @@
 # Leeds SoM PGR Conference 2023
 
 Site for the upcoming School of Maths PGR conference at the University of Leeds.
-Deploys to [https://leeds-maths-pgr.github.io/conf-2023/].
+Deploys to [https://leeds-maths-pgr.github.io/conf-2023/](https://leeds-maths-pgr.github.io/conf-2023/).
 
 ## Writing content
 
