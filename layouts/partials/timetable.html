@@ -1,5 +1,6 @@
 {{ $schedule := $.Site.Data.schedule.schedule}}
-<table>
+{{ $events := $.Site.Data.events.events}}
+<table class="timetable">
     <thead>
         {{ range $schedule.headings }}
         <th>{{ . }}</th>
@@ -9,16 +10,13 @@
         {{ range $row_index, $row := $schedule.rows }}
         <tr>
             {{ range $col_index, $data := $row }}
-            {{ if ge $col_index 1 }}
-            {{ $id := print "D" (sub $col_index 1) "T" $row_index }}
-            <td id="{{ $id }}" class="{{ $data.type }}">
-            {{ else }}
-            <td class="{{ $data.type }}">
-            {{ end }}
-                {{ if $data.URL }}
-                <a href="{{$data.URL}}">{{ $data.display }}</a>
+                {{ if $data.id }}
+                  {{ $event:= index $events $data.id }}
+            <td id="{{ $data.id }}-tab" class="{{ $event.type }}">
+                <a href="#{{ $data.id }}-det">{{ $event.display }}</a>
                 {{ else }}
-                {{ $data.display }}
+            <td class="{{ $data.type }}">
+                    {{ $data.display }}
                 {{ end }}
             </td>
             {{ end }}

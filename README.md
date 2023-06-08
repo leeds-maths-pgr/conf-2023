@@ -16,6 +16,7 @@ Please use [one sentence per line](https://sive.rs/1s) (single return after ever
 
 ## Development
 
+See [docs/development.md]
 
 ## To do
 
