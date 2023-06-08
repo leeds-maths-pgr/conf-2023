@@ -12,16 +12,16 @@
             {{ if ge $col_index 1 }}
             {{ $id := print "D" (sub $col_index 1) "T" $row_index }}
             <td id="{{ $id }}" class="{{ $data.type }}">
-                {{ else }}
-                <td class="{{ $data.type }}">
-                    {{ end }}
-                    {{ if $data.URL }}
-                    <a href="{{$data.URL}}">{{ $data.display }}</a>
-                    {{ else }}
-                    {{ $data.display }}
-                    {{ end }}
-                </td>
+            {{ else }}
+            <td class="{{ $data.type }}">
                 {{ end }}
+                {{ if $data.URL }}
+                <a href="{{$data.URL}}">{{ $data.display }}</a>
+                {{ else }}
+                {{ $data.display }}
+                {{ end }}
+            </td>
+            {{ end }}
         </tr>
         {{ end }}
     </tbody>
