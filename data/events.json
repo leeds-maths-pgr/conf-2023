@@ -1,0 +1,115 @@
+{
+    "events": {
+        "ext1":{
+            "display": "External talk: Philosophy of Mathematics",
+            "type": "alt-pres",
+            "format": "single-speaker",
+            "speaker": "Helen Beebee — University of Leeds"
+        },
+        "ext2":{
+            "display": "External talk",
+            "type": "alt-pres",
+            "format": "single-speaker",
+            "speaker": "Kevin Houston — University of Leeds"
+        },
+        "workshop":{
+            "display": "Workshop",
+            "type": "alt-pres",
+            "format": "single-speaker",
+            "speaker": "Rob Sturman — University of Leeds"
+        },
+        "panelacc": {
+            "display": "Academic careers panel",
+            "type": "alt-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Georgios Aivaliotis — University of Leeds",
+                "Farrokh Atai — University of Leeds",
+                "Josh Cork — University of Leicester"
+            ]
+        },
+        "panelnon": {
+            "display": "Non-Academic careers panel",
+            "type": "alt-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Annah Muli",
+                "Dominic Pinto",
+                "Joseph Elmes"
+            ]
+        },
+        "pgr1": {
+            "display": "PGR talks: session 1",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Matthew Asker",
+                "Shuangshuang Shu",
+                "Jacob Smith"
+            ]
+        },
+        "pgr2": {
+            "display": "PGR talks: session 2",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Yijun Fu",
+                "Bradley Ryan",
+                "Matteo Spadetto"
+            ]
+        },
+        "pgr3": {
+            "display": "PGR talks: session 3",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Nils de Vries",
+                "Luca Seemungal",
+                "Mostafa Soroor"
+            ]
+        },
+        "pgr4": {
+            "display": "PGR talks: session 4",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Tommy Bernert",
+                "Alfensi Faruk",
+                "Matt Vine"
+            ]
+        },
+        "pgr5": {
+            "display": "PGR talks: session 5",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Luke Gostelow",
+                "Luca Mesiti",
+                "Ibrahim Mohammed"
+            ]
+        },
+        "pgr6": {
+            "display": "PGR talks: session 6",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Oscar Braur",
+                "Aris Papadopoulos",
+                "Calliope Ryan-Smith"
+            ]
+        },
+        "pgrp": {
+            "display": "PGR poster session",
+            "type": "pgr-pres",
+            "format": "multi-speaker",
+            "speakerlist": [
+                "Basmah Alsubhi",
+                "Puchong Paophan",
+                "Sam Myers",
+                "Minzhen Xie",
+                "Mingrui Zhang",
+                "Muyang Zhang"
+            ]
+        }
+    }
+}
