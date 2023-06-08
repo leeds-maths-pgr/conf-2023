@@ -1,0 +1,34 @@
+{{ $schedule := $.Site.Data.schedule.schedule}}
+{{ $slotIDmap := $.Site.Data.schedule.slotIDmap}}
+{{ $events := $.Site.Data.events.events}}
+
+<h2>Talks</h2>
+<br>
+
+{{ range $i := slice 1 2 3 }}
+    {{ range $j := slice 0 1 2 3 4 5 6 7 8 9 10 }}
+        {{ $data := index $schedule.rows $j $i}}
+        {{ if $data.id }}
+            {{ $event := index $events $data.id }}
+            {{ $slotID := print "D" (sub $i 1) "T" $j }}
+
+            <div class="speakerbox">
+            {{ if eq $event.format "multi-speaker" }}
+                <h4 id="{{ $data.id }}-det"> {{ $event.display }} </h4>
+                <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a><br>
+                <h5 class="speaker">Speakers</h5>
+                <ul>
+                    {{ range $event.speakerlist }}
+                        <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            {{ else if eq $event.format "single-speaker" }}
+                <h4 id="{{ $data.id }}-det"> {{ $event.display }} </h4>
+                <h5 class="speaker">{{ $event.speaker }}</h5>
+                <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a><br>
+            {{ end }}
+            </div>
+            <br>
+        {{ end }}
+    {{ end }}
+{{ end }}
