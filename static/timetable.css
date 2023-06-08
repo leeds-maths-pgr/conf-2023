@@ -29,3 +29,17 @@ th {
     background-color: #5A7087;
     color: #F0F1F8;
 }
+
+h5.speaker {
+  color: #303030;
+}
+
+a.time {
+  color: #404040;
+  font-style: italic;
+}
+
+td.break {background-color: #C8E1B7;}
+td.alt-pres {background-color: #D0B1E7;}
+td.pgr-pres {background-color: #FF9999;}
+td.social {background-color: #FFE699;}
