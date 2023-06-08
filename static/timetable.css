@@ -16,6 +16,15 @@ th, td {
     text-align: center;
 }
 
+@media (min-width: 800px) {
+  th, td {
+    min-width: calc(5rem + 8.5vw);
+  }
+  th:nth-child(1), td:nth-child(1) {
+    min-width: calc(5rem + 2vw);
+  }
+}
+
 th {
     background-color: #5A7087;
     color: #F0F1F8;
