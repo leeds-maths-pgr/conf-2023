@@ -1,13 +1,13 @@
 {
     "events": {
         "ext1":{
-            "display": "External talk: Philosophy of Mathematics",
+            "display": "Plenary talk: Philosophy of Mathematics",
             "type": "alt-pres",
             "format": "single-speaker",
             "speaker": "Helen Beebee — University of Leeds"
         },
         "ext2":{
-            "display": "External talk",
+            "display": "Plenary talk",
             "type": "alt-pres",
             "format": "single-speaker",
             "speaker": "Kevin Houston — University of Leeds"
