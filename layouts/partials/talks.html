@@ -16,7 +16,6 @@
             {{ if eq $event.format "multi-speaker" }}
                 <h4 id="{{ $data.id }}-det"> {{ $event.display }} </h4>
                 <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a><br>
-                <h5 class="speaker">Speakers</h5>
                 <ul>
                     {{ range $event.speakerlist }}
                         <li>{{ . }}</li>
