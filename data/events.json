@@ -103,11 +103,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Basmah Alsubhi",
                 "Puchong Paophan",
                 "Sam Myers",
                 "Minzhen Xie",
-                "Mingrui Zhang",
                 "Muyang Zhang"
             ]
         }
