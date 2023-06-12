@@ -43,9 +43,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Matthew Asker",
-                "Shuangshuang Shu",
-                "Matteo Spadetto"
+                "01",
+                "02",
+                "03"
             ]
         },
         "pgr2": {
@@ -53,9 +53,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Yijun Fu",
-                "Bradley Ryan",
-                "Jacob Smith"
+                "04",
+                "05",
+                "06"
             ]
         },
         "pgr3": {
@@ -63,9 +63,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Nils de Vries",
-                "Luca Seemungal",
-                "Mostafa Soroor"
+                "07",
+                "08",
+                "09"
             ]
         },
         "pgr4": {
@@ -73,9 +73,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Tommy Bernert",
-                "Alfensi Faruk",
-                "Matt Vine"
+                "10",
+                "11",
+                "13"
             ]
         },
         "pgr5": {
@@ -83,9 +83,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Luke Gostelow",
-                "Luca Mesiti",
-                "Ibrahim Mohammed"
+                "13",
+                "14",
+                "15"
             ]
         },
         "pgr6": {
@@ -93,9 +93,9 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Oscar Brauer",
-                "Aris Papadopoulos",
-                "Calliope Ryan-Smith"
+                "16",
+                "17",
+                "18"
             ]
         },
         "pgrp": {
@@ -103,10 +103,10 @@
             "type": "pgr-pres",
             "format": "multi-speaker",
             "speakerlist": [
-                "Puchong Paophan",
-                "Sam Myers",
-                "Minzhen Xie",
-                "Muyang Zhang"
+                "19",
+                "20",
+                "21",
+                "22"
             ]
         }
     }
