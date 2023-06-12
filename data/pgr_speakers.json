@@ -1,0 +1,114 @@
+{
+    "speakers": {
+        "01": {
+            "name": "Matthew Asker",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "02": {
+            "name": "Shuangshuang Shu",
+            "title": "What is Forcing?",
+            "abstract": "Mathematics starts from counting, and so we have the notion of natural numbers. By taking additive closure, we obtain the integers, and by taking multiplicative closure, we obtain the rationals. This is all very finitary and algebraic, but from the rationals to the real numbers, we have to imagine that we have \"filled up the gaps in the rationals\". It is well-known that in our current mathematical system (ZFC), we cannot decide how many reals there are. This fact is tied to the elusive imaginary nature of the reals."
+        },
+        "03": {
+            "name": "Matteo Spadetto",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "04": {
+            "name": "Yijun Fu",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "05": {
+            "name": "Bradley Ryan",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "06": {
+            "name": "Jacob Smith",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "07": {
+            "name": "Nils de Vries",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "08": {
+            "name": "Luca Seemungal",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "09": {
+            "name": "Mostafa Soroor",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "10": {
+            "name": "Tommy Bernert",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "11": {
+            "name": "Alfensi Faruk",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "12": {
+            "name": "Matt Vine",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "13": {
+            "name": "Luke Gostelow",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "14": {
+            "name": "Luca Mesiti",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "15": {
+            "name": "Ibrahim Mohammed",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "16": {
+            "name": "Oscar Brauer",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "17": {
+            "name": "Aris Papadopoulos",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "18": {
+            "name": "Calliope Ryan-Smith",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "19": {
+            "name": "Puchong Paophan",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "20": {
+            "name": "Sam Myers",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "21": {
+            "name": "Minzhen Xie",
+            "title": "TBD",
+            "abstract": "TBD"
+        },
+        "22": {
+            "name": "Muyang Zhang",
+            "title": "TBD",
+            "abstract": "TBD"
+        }
+    }
+}
