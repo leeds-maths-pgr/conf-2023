@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ $pgr_speakers := $.Site.Data.pgr_speakers.speakers}}
+<section class="content">
+    {{ .Content }}
+    {{ range $speaker := sort $pgr_speakers "name" }}
+    {{ index $speaker "name" }}<br>
+    {{ end }}
+</section>
+{{ end }}
