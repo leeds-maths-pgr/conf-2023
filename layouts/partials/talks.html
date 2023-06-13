@@ -16,11 +16,12 @@
             <div class="speakerbox">
             {{ if eq $event.format "multi-speaker" }}
                 <h4 id="{{ $data.id }}-det"> {{ $event.display }} </h4>
-                <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a><br>
-                <ul>
+                <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a>
+                <p><ul>
                     {{ if eq $event.type "pgr-pres" }}
-                        {{ range $speaker_id := $event.speakerlist }}
-                        <li>{{ index $pgr_speakers $speaker_id "name"}}</li>
+                        {{ range where $pgr_speakers "id" "in" $event.speakerlist }}
+                    <!-- <li id="pgr-{{ .id }}"><a href="/conf-2023/abstracts#pgr-{{ .id }}">{{ .name }}</a></li> -->
+                    <li>{{ .name }}</li>
                         {{ end }}
                     {{ else }}
                         {{ range $event.speakerlist }}
@@ -28,12 +29,13 @@
                         {{ end }}
                     {{ end }}
                 </ul>
+                </p>
             {{ else if eq $event.format "single-speaker" }}
                 <h4 id="{{ $data.id }}-det"> {{ $event.display }} </h4>
                 <h5 class="speaker">{{ $event.speaker }}</h5>
                 <a class="time" href="#{{ $data.id }}-tab">{{ index $slotIDmap $slotID }}</a><br>
+                <br />
             {{ end }}
-            </div>
             <br>
         {{ end }}
     {{ end }}

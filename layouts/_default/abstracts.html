@@ -1,9 +1,18 @@
 {{ define "main" }}
 {{ $pgr_speakers := $.Site.Data.pgr_speakers.speakers}}
 <section class="content">
+    <h1>Abstracts</h1>
+
     {{ .Content }}
-    {{ range $speaker := sort $pgr_speakers "name" }}
-    {{ index $speaker "name" }}<br>
+    {{ range sort $pgr_speakers "name" }}
+    {{ if eq .abstract "poster" }}
+    <h4 id="pgr-{{ .id }}"><a href="/conf-2023/schedule#pgr-{{ .id }}">{{ .name }}</a></h4>
+    <p>Poster</p>
+    {{ else }}
+    <h4 id="pgr-{{ .id }}"><a href="/conf-2023/schedule#pgr-{{ .id }}">{{ .name }} — {{ .title }}</a></h4>
+    <p>{{ .abstract }}</p>
+    {{ end }}
+    <br/>
     {{ end }}
 </section>
 {{ end }}
