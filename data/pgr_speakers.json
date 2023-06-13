@@ -17,8 +17,8 @@
         },
         {"id": "04",
          "name": "Yijun Fu",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "Classification trees based on distance measures and discriminant functions",
+         "abstract": "The Classification and Regression Tree (CART) (Breiman, 1984), a decision tree algorithm used for classification, is one of the most important machine learning algorithms. However, CART generates classification trees using only one feature in each split, which may lead to a complex tree structure and high computational cost. Various distance-based trees, linear discriminant and quadratic discriminant-based trees have been proposed to improve the performance of classification trees. This talk investigates four distance-based classification tree models which simplify the tree structure and can improve the performance of CART. We propose classification tree models using Euclidean distance, Mahalanobis distance, Linear discriminant function and Quadratic discriminant function to define splitting rules. A modified cost-complexity pruning method is combined with our proposed distance-based classification trees to avoid overfitting. We compare the performance of our proposed models with that of CART on simulated and real data sets."
         },
         {"id": "05",
          "name": "Bradley Ryan",
@@ -37,8 +37,8 @@
         },
         {"id": "08",
          "name": "Luca Seemungal",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "Blowing bubbles in curved ambient spaces",
+         "abstract": "In this talk, we blow bubbles in flat and curved ambient spaces to glean information about the geometry and topology of the ambient space."
         },
         {"id": "09",
          "name": "Mostafa Soroor",
@@ -82,13 +82,13 @@
         },
         {"id": "17",
          "name": "Aris Papadopoulos",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "Ramsey's parties were always the best",
+         "abstract": "Abstract: Picture this. You want to throw a party this Saturday and need to make sure that it’s successful. In the latest issue of “Parties Magazine” you found out that there are just two ways that a party could fail to be successful: (1) There aren’t large enough groups of people that are all strangers to each other, or (2) There aren’t large enough groups of people that are all friends with each other. In either case (according, always, to “Parties Magazine”) your party will not be homogeneous enough and interactions will be awkward. If this is your situation, please come to my talk."
         },
         {"id": "18",
          "name": "Calliope Ryan-Smith",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "A metaphor for cardinal characteristics",
+         "abstract": "Cardinal characteristics of the continuum are a study of the undecidability of ZFC, or more generally of mathematics itself, by inspecting the possible values of infinities defined in relation to the real numbers, and what we can prove about those infinities. That's a lot of complicated words, so I will present an analogue of this that uses finite numbers instead."
         },
         {"id": "19",
          "name": "Puchong Paophan",
