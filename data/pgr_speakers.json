@@ -2,12 +2,12 @@
     "speakers": [
         {"id": "01",
          "name": "Matthew Asker",
-         "title": "Coexistence of Competing Microbial Strains under Twofold Environmental Variability and Demographic Fluctuations",
+         "title": "Coexistence of competing microbial strains under twofold environmental variability and demographic fluctuations",
          "abstract": "Microbial populations generally evolve in volatile environments, under conditions fluctuating between harsh and mild, e.g. as the result of sudden changes in toxin concentration or nutrient abundance. Environmental variability thus shapes the population long-time dynamics, notably by influencing the ability of microorganisms to coexist. Inspired by the evolution of antimicrobial resistance, we study the dynamics of a community consisting of two competing strains subject to twofold environmental variability. The level of toxin varies in time, favouring the growth of a strain under low drug level and the other when the toxin level is high. We also model time-changing resource abundance by a randomly switching carrying capacity that drives the fluctuating size of the community. While one strain always dominates in a static environment, we show that species coexistence is possible in the presence of environmental variability. By computational and analytical means, we determine the environmental conditions under which long-lived coexistence is possible and when it is almost certain. We study the circumstances under which environmental and demographic fluctuations promote, or hinder, the strains coexistence.  We also determine how the make-up of the coexistence phase and the average abundance of each strain depend on the environmental variability."
         },
         {"id": "02",
          "name": "Shuangshuang Shu",
-         "title": "What is Forcing?",
+         "title": "What is forcing?",
          "abstract": "Mathematics starts from counting, and so we have the notion of natural numbers. By taking additive closure, we obtain the integers, and by taking multiplicative closure, we obtain the rationals. This is all very finitary and algebraic, but from the rationals to the real numbers, we have to imagine that we have \"filled up the gaps in the rationals\". It is well-known that in our current mathematical system (ZFC), we cannot decide how many reals there are. This fact is tied to the elusive imaginary nature of the reals."
         },
         {"id": "03",
@@ -22,7 +22,7 @@
         },
         {"id": "05",
          "name": "Bradley Ryan",
-         "title": "Character Varieties and Symmetric Polynomials",
+         "title": "Character varieties and symmetric polynomials",
          "abstract": "We shall briefly introduce the idea of character varieties, focusing on the particular example of the four-punctured Riemann sphere. By following the work of Hausel-Letellier-Rodriguez-Villegas, one can use some theory about Young diagrams and symmetric functions to show that the character variety of interest is connected. Although time prevents us from explaining this in detail, it really boils down to something combinatorial. Finally, we make some comments on additional situations, and on how this is involved with my primary interest in double affine Hecke algebras."
         },
         {"id": "06",
@@ -42,7 +42,7 @@
         },
         {"id": "09",
          "name": "Mostafa Soroor",
-         "title": "Numerical Optimization of a Vortex T-Mixer for Stopped-Flow Device: Maximizing Mixing Index and Minimizing Deadtime",
+         "title": "Numerical optimization of a vortex t-mixer for stopped-flow device: maximizing mixing index and minimizing deadtime",
          "abstract": "Stopped-flow devices are extensively employed for monitoring dynamic reactions with high temporal resolution. While these devices have demonstrated their utility in nanoparticle analysis, there is still room for optimization. This study focuses on the optimization of a vortex T-mixer suited for operation at Synchrotron facilities in terms of its mixing index and deadtime. The mixing index serves as a criterion for assessing the degree of mixing, enabling comparison across different geometric dimensions and facilitating geometry optimization. Deadtime refers to the time interval between the initial contact of two fluids and the point of analysis. Given that reactions typically occur within milliseconds, minimizing deadtime is crucial. In this investigation, 24 different geometric dimensions of the vortex T-mixer were examined at a fixed flow rate. An optimized vortex T-mixer configuration with a mixing index of 0.96 was successfully identified through this computational study. Additionally, a Reynolds number (flow rate) which gave both a favourable mixing index and minimal deadtime was identified. Notably, the findings revealed that increasing the Reynolds number beyond 200 does not lessen the mixing index but only shortens the deadtime. Furthermore, the optimal location for the viewing window was identified, minimizing the deadtime. This finding can be utilized to manufacture a stopped-flow chip, with simulation results to be validated through Fluorescent experiments. By optimizing the vortex T-mixer and enhancing the understanding of its performance parameters, this research contributes to the advancement of dynamic reaction monitoring techniques."
         },
         {"id": "10",
@@ -52,12 +52,12 @@
         },
         {"id": "11",
          "name": "Alfensi Faruk",
-         "title": "Measures of Prediction Performance for Non-proportional Hazards Models",
+         "title": "Measures of prediction performance for non-proportional hazards models",
          "abstract": "We propose several discrimination measures to assess the performance of non-proportional hazards models, including time-dependent Uno’s C-index and pair calibration, which the former outperforms the standard Antolini’s time-dependent concordance. We prove the convergence of our estimators based on Nolan and Pollard’s results for U-statistics. We investigate the proposed discrimination measures using real and simulated data."
         },
         {"id": "12",
          "name": "Matt Vine",
-         "title": "A Mathematical Introduction to Alfvén-Gravity Waves",
+         "title": "A mathematical introduction to Alfvén-gravity waves",
          "abstract": "I'll discuss the mathematical fundamentals of both Alfvén waves and internal gravity waves in isolation, as well as what happens when we combine the two. For each type of wave, I'll demonstrate how their dispersion relation can be derived from their respective equations of motion. This is to be followed by taking a look at their phase and group velocities, from which we can deduce several physical properties."
         },
         {"id": "13",
@@ -77,7 +77,7 @@
         },
         {"id": "16",
          "name": "Oscar Brauer",
-         "title": "Cohomological Field Theories, a 15 minute introduction",
+         "title": "Cohomological field theories, a 15 minute introduction",
          "abstract": "We do a brief review of cohomological field theories, a class of topological quantum field theories that incorporate cohomology. The talk begins with a brief introduction to the foundations of quantum field theory and algebraic topology, focusing on the concepts most relevant to cohomological field theories. We will also explore specific examples of cohomological field theories, such as Gromov-Witten theory and Moduli spaces, and discusses their practical applications. We finalize discussing current research and future prospects in the field."
         },
         {"id": "17",
