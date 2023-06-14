@@ -62,8 +62,8 @@
         },
         {"id": "13",
          "name": "Luke Gostelow",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "Solving Poisson's Equation in a Fourier-Chebyshev Basis",
+         "abstract": "One can show that Poisson's equation in a Fourier-Chebyshev basis can be written as a split-quasi-tridiagonal system. Iterative methods exist for solving linear QTD systems and these can be adapted to our case. Overall, this method is useful for solving Poisson’s equation in a channel as it is faster than Gaussian elimination and more accurate and efficient than matrix inversion. We will show an example where this method can be used to aid simulations of the instability of a two-dimensional flow through a wide channel."
         },
         {"id": "14",
          "name": "Luca Mesiti",
@@ -72,8 +72,8 @@
         },
         {"id": "15",
          "name": "Ibrahim Mohammed",
-         "title": "Title TBD",
-         "abstract": "Abstract TBD"
+         "title": "Model theory of Real closed fields ",
+         "abstract": "Real closed fields are ordered fields such that any quadratic and odd degree polynomial has a root, with examples being the reals and the reals intersected with the algebraic closure of the rational numbers. The theory of real closed fields can be translated smoothly to model theory, which allows us to give slick proofs of certain classical results, such as Hilbert's 17th problem, which asks if any positive semi-definite real polynomial can be written as a sum of squares.  In this talk I'll give an introduction to model theory and sketch the proof of the solution to Hilbert's 17th problem."
         },
         {"id": "16",
          "name": "Oscar Brauer",
