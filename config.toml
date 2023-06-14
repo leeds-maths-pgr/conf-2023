@@ -19,7 +19,7 @@ theme = "leeds_pgr_basic"
     name = 'Contact'
     url = '/contact'
     weight = 40
-# [[menu.main]]
-#     name = 'Files'
-#     url = '/files'
-#     weight = 50
+ [[menu.main]]
+     name = 'Abstracts'
+     url = '/abstracts'
+     weight = 50

@@ -20,8 +20,8 @@
                 <p><ul>
                     {{ if eq $event.type "pgr-pres" }}
                         {{ range where $pgr_speakers "id" "in" $event.speakerlist }}
-                    <!-- <li id="pgr-{{ .id }}"><a href="/conf-2023/abstracts#pgr-{{ .id }}">{{ .name }}</a></li> -->
-                    <li>{{ .name }}</li>
+                    <li id="pgr-{{ .id }}"><a href="/conf-2023/abstracts#pgr-{{ .id }}">{{ .name }}</a></li>
+                    <!-- <li>{{ .name }}</li> -->
                         {{ end }}
                     {{ else }}
                         {{ range $event.speakerlist }}
