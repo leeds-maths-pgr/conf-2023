@@ -44,7 +44,7 @@
             "format": "multi-speaker",
             "speakerlist": [
                 "01",
-                "02",
+                "24",
                 "03"
             ]
         },
@@ -75,7 +75,7 @@
             "speakerlist": [
                 "10",
                 "11",
-                "13"
+                "12"
             ]
         },
         "pgr5": {
