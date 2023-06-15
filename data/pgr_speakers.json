@@ -119,6 +119,11 @@
           "name": "Tathagata Ghosh",
           "title": "Yang-Mills Equations and Instantons",
           "abstract": "The Yang-Mills equations are generalizations of Maxwell's equations of Electromagnetism. Instantons are solutions of the \"Instanton equations\" and also satisfy the Yang-Mills equations. These equations are of interest to both differential geometers and theoretical physicists. First, I shall describe a simpler way to write Maxwell's equations using the notions of differential forms and Hodge star operator. This will help us to introduce the Yang-Mills equation as a generalisation of Maxwell's equation. We shall also discuss instantons very briefly. Rest of the talk will be spent on giving the motivation behind such generalisations."
+        },
+        {"id": "25",
+          "name": "Mervyn Tong",
+          "title": "The only theorem in model theory",
+          "abstract": "Once dubbed the “only theorem in model theory”, the Compactness Theorem has the power to greatly simplify a wide range of mathematical proofs, and should thus be an essential in every mathematician’s toolbox. In this talk, we will see one such application in group theory, and use the theorem as a lens to examine a key feature of first-order logic."
         }
     ]
 }
