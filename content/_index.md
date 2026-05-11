@@ -7,7 +7,7 @@ We welcome [submissions](./call_for_speakers) from all PGRs in the School of Mat
 
 This edition of the conference is organised by:
 [Anna Sigalou](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/pgr/8778/anna-sigalou),
-[Gautam Chaudhuri](https://eps.leeds.ac.uk/maths/pgr/10184/gautam-chaudhuri),
+[Cas Chaudhuri](https://eps.leeds.ac.uk/maths/pgr/10184/cas-chaudhuri),
 Luca Seemungal,
 [Matteo Spadetto](https://eps.leeds.ac.uk/maths/pgr/8476/matteo-spadetto),
 Mingrui Zhang,
